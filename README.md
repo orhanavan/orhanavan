@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Orhan
 - 👀 I’m interested in Android, Kotlin, Node.js and Unity
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on mobile retro games
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on OpenCV
 - 📫 If you're, I reach you!
 
 <!---
